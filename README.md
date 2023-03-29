@@ -1,5 +1,3 @@
-
-Fast_Sms_Bomber
 Notlar
 Eğitim Amaçlı Yapılmıştır.
 Saldırı Amaçlı Kullanmak Suçtur.
@@ -7,3 +5,4 @@ Eğitim Amaçlı Olduğu İçin Sadece 10 Sitenin Açıklarından Faydalanılmı
 Siteler Captcha/Anti Bot/Vb. Kullanmadığı İçin Bu Açıklardan Kolayca Faydalanabilirsiniz.
 Siteler Bu Tür Sistemleri Engelllemek İçin En Azından Captcha Kullanabilirler.
 Bu Tür Sistemler Birden Fazla Site İçin Yapılabilir. Bu Şekilde Bir Hedefi Rahtsız Edebilir.
+KURULUMUNU YAPABİLİRİM BANA ULASIN
