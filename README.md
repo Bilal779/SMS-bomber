@@ -1,8 +1,5 @@
 
 Fast_Sms_Bomber
-Resimler
-image image image
-
 Notlar
 Eğitim Amaçlı Yapılmıştır.
 Saldırı Amaçlı Kullanmak Suçtur.
